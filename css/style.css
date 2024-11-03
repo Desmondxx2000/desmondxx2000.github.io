@@ -18,6 +18,7 @@ em {
         font-style: normal;
 }
 .incredibox-mod {
+        width: 100px;
         border-radius: 25px;
         float: middle;
 }
