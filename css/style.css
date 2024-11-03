@@ -9,6 +9,10 @@
 .music {
         font-weight: bold;
 }
+.download {
+        color: orange;
+        font-style: normal;
+}
 em {
         color: orange;
         font-style: normal;
