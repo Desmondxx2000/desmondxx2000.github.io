@@ -3,6 +3,8 @@
         border-radius: 10px;
         float: left;
         margin-right: 15px;
+        color: orange;
+        font-style: normal;
 }
 .music {
         font-weight: bold;
