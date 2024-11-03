@@ -3,8 +3,11 @@
         border-radius: 50px;
         float: left;
         margin-right: 15px;
-      }
-
-      .username {
+}
+.username {
         font-weight: bold;
-      }
+}
+em {
+        color: cyan;
+        font-style: normal;
+}
