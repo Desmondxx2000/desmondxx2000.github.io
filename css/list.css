@@ -15,8 +15,7 @@
   padding: 12px;
   text-decoration: none;
   color: black;
-  display: block;
-  float: left
+  display: block
 }
 
 #myMenu li h4:hover {
