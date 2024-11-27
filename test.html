@@ -1,24 +1,38 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<html lang="en">
+
+<head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, inital-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="css/topnav.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <script src="js/list.js"></script>
-    <title>Mods</title>
-  </head>
-  <body style="background-color:rgb(0,0,0);">
-  <div class="container">
+    <meta name="viewport" 
+          content="width=device-width, initial-scale=1.0">
+    <title>Search Bar Example</title>
+    <link rel="stylesheet" 
+          type="text/css" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
         <input id="searchbar" 
-               onkeyup="search_mod()" 
+               onkeyup="search_animal()" 
                type="text" name="search" 
-               placeholder="Search mod..">
-    <ul id="mod-list">
-    <li class="incredibox-mods">Omni Augury</li>
-    <li class="incredibox-mods" >Time Beta</li>
-    <li class="incredibox-mods" >The Bells</li>
-    </ul>
-  </div>
-  </body>
+               placeholder="Search animals..">
+
+        <ul id='list'>
+            <li class="animals">Cat</li>
+            <li class="animals">Dog</li>
+            <li class="animals">Elephant</li>
+            <li class="animals">Fish</li>
+            <li class="animals">Gorilla</li>
+            <li class="animals">Monkey</li>
+            <li class="animals">Turtle</li>
+            <li class="animals">Whale</li>
+            <li class="animals">Alligator</li>
+            <li class="animals">Donkey</li>
+            <li class="animals">Horse</li>
+        </ul>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
 </html>
