@@ -15,7 +15,8 @@
   padding: 12px;
   text-decoration: none;
   color: black;
-  display: inline-block
+  display: block;
+  float: left
 }
 
 #myMenu li a:hover {
