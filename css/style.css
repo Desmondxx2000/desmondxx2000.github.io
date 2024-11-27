@@ -2,26 +2,26 @@
         width: 100px;
         border-radius: 10px;
         float: left;
-        margin-right: 15px
+        margin-right: 15px;
 }
 
 .music {
-        font-weight: bold
+        font-weight: bold;
 }
 
 .download {
         color: orange;
-        font-style: normal
+        font-style: normal;
 }
 
 em {
         color: orange;
-        font-style: normal
+        font-style: normal;
 }
 
 .mod-img {
         width: 80;
-        border-radius: 35px
+        border-radius: 35px;
 }
 
 @media (max-width: 768px) {
