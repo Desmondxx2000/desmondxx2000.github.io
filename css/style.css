@@ -20,9 +20,8 @@ em {
 }
 
 .mod-img {
-        width: auto;
-        height: 140;
-        border-radius: 25px
+        width: 80;
+        border-radius: 35px
 }
 
 @media (max-width: 768px) {
