@@ -1,20 +1,34 @@
+@media (min-width: 992px) {
+
+    .main-content { 
+
+        display: flex;
+
+    }
+
+}
+
 .music-img {
         width: 100px;
         border-radius: 10px;
         float: left;
         margin-right: 15px;
 }
+
 .music {
         font-weight: bold;
 }
+
 .download {
         color: orange;
         font-style: normal;
 }
+
 em {
         color: orange;
         font-style: normal;
 }
+
 .incredibox-mod {
         width: 100px;
         border-radius: 25px;
