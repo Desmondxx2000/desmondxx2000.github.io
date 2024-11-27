@@ -19,6 +19,5 @@
 }
 
 #myMenu li a:hover {
-  background-color: #eee;
-  display: inline-block
+  background-color: #eee
 }
