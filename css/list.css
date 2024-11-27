@@ -29,6 +29,10 @@
     border-bottom: none;
 }
 
+ul {
+    color: cyan;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
