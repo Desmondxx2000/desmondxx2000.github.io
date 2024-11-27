@@ -1,3 +1,29 @@
+.music-img {
+        width: 100px;
+        border-radius: 10px;
+        float: left;
+        margin-right: 15px;
+}
+
+.music {
+        font-weight: bold;
+}
+
+.download {
+        color: orange;
+        font-style: normal;
+}
+
+em {
+        color: orange;
+        font-style: normal;
+}
+
+.mod-img {
+        width: 100px;
+        border-radius: 25px;
+}
+
 @media (max-width: 768px) {
 
     .header-nav { 
@@ -24,28 +50,3 @@
 
 }
 
-.music-img {
-        width: 100px;
-        border-radius: 10px;
-        float: left;
-        margin-right: 15px;
-}
-
-.music {
-        font-weight: bold;
-}
-
-.download {
-        color: orange;
-        font-style: normal;
-}
-
-em {
-        color: orange;
-        font-style: normal;
-}
-
-.incredibox-mod {
-        width: 100px;
-        border-radius: 25px;
-}
