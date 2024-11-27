@@ -1,3 +1,19 @@
+@media (max-width: 768px) {
+
+    .header-nav { 
+
+        flex-direction: column;
+
+    }
+
+    .main-content img { 
+
+        width: 100%; 
+
+    }
+
+}
+
 @media (min-width: 992px) {
 
     .main-content { 
