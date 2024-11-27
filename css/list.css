@@ -18,14 +18,14 @@
     margin: 0;
 }
 
-.incredibox-mods {
+.incredibox-mod {
     font-size: 1.2em;
     padding: 10px;
     border-bottom: 1px solid #ccc;
     animation: fadeIn 0.5s ease-in-out;
 }
 
-.incredibox-mods:last-child {
+.incredibox-mod:last-child {
     border-bottom: none;
 }
 
