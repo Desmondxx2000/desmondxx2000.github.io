@@ -11,7 +11,7 @@
   margin: 0;
 }
 
-#myMenu li a {
+#myMenu li h4 {
   padding: 12px;
   text-decoration: none;
   color: black;
@@ -19,7 +19,7 @@
   float: left
 }
 
-#myMenu li a:hover {
+#myMenu li h4:hover {
   background-color: #eee
 }
 
