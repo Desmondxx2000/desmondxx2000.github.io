@@ -1,13 +1,16 @@
 .topnav {
+  display: flex;
   transition: 1s;
+  position: absolute;
   z-index: 0;
   top: 5%;
   left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(29, 8, 49);
+  overflow:auto;
   align-content: center;
   float: center;
   font-family: monospace;
-  background-color: rgb(29, 8, 49);
-  overflow: auto;
 }
 
 .topnav a {
