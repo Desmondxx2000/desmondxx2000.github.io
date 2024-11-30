@@ -21,7 +21,7 @@ em {
 
 .mod-img {
         width: 80;
-        border-radius: 35px;
+        border-radius: 35px
 }
 
 @media (max-width: 768px) {
