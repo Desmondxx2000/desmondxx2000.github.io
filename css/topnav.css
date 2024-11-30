@@ -7,7 +7,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: rgb(29, 8, 49);
-    overflow:auto;
+    overflow: hidden;
     align-content: center;
     float: center;
     font-family: monospace;
