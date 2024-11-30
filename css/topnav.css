@@ -1,4 +1,7 @@
 .topnav {
+  align-content: center;
+  float: center;
+  font-family: monospace;
   background-color: #333;
   overflow: auto;
 }
