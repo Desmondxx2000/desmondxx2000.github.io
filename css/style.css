@@ -20,7 +20,8 @@ em {
 }
 
 .mod-img {
-        width: 80;
+        width: auto;
+        height: 80;
         border-radius: 35px
 }
 
